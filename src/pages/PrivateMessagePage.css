@@ -1,0 +1,16 @@
+.custom-scroll {
+    position: relative;
+    height: 40vh;
+    overflow-y: scroll;
+    max-height: 600px;
+}
+
+.table-scroll {
+    display: inline-block;
+    width: border-box;
+    max-width: 900px;
+    max-height: 600px;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}

@@ -1,0 +1,11 @@
+.Profile {
+    cursor:pointer;
+    font-size: x-large;
+    color: #0645AD;
+    text-decoration:underline;
+}
+
+.Profile:hover {
+    text-decoration:none;
+    text-shadow: 1px 1px 1px #555;
+}

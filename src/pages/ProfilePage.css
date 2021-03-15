@@ -1,0 +1,12 @@
+.my-custom-scroll {
+    position: relative;
+    max-height: 400px;
+    width: 500px;
+    background-color: #c5c6c7;
+    border-radius: 25px;
+    overflow-y: scroll;
+}
+
+.table-wrapper-scroll-y {
+    display: inline-block;
+}
